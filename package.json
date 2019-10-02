@@ -1,14 +1,7 @@
 {
-  "_args": [
-    [
-      "react-native-airplay-btn@1.0.6",
-      "/Users/nieckbennink/Documents/projects/react-native-app"
-    ]
-  ],
   "_from": "react-native-airplay-btn@1.0.6",
   "_id": "react-native-airplay-btn@1.0.6",
   "_inBundle": false,
-  "_integrity": "sha512-jkRwIpBZxzJSoe1PHfJ1mc06stRP1Ah6QKY71x7hkGTsJGNS/+/cvVXDhujAODBkmHgvCITDl2RSd6a451l9SQ==",
   "_location": "/react-native-airplay-btn",
   "_phantomChildren": {},
   "_requested": {
@@ -24,18 +17,17 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://npm.tradecast.eu:4879/react-native-airplay-btn/-/react-native-airplay-btn-1.0.6.tgz",
+  "_resolved": "https://github.com/EugeneButovka/react-native-airplay-btn/archive/master.zip",
   "_spec": "1.0.6",
-  "_where": "/Users/nieckbennink/Documents/projects/react-native-app",
   "author": {
     "name": "Nadia Dillon"
   },
   "bugs": {
-    "url": "https://github.com/IMGGaming/react-native-airplay-btn/issues"
+    "url": "https://github.com/EugeneButovka/react-native-airplay-btn/issues"
   },
   "dependencies": {},
   "description": "AirPlay library for iOS",
-  "homepage": "https://github.com/IMGGaming/react-native-airplay-btn#readme",
+  "homepage": "https://github.com/EugeneButovka/react-native-airplay-btn",
   "keywords": [
     "react-native",
     "ios",
@@ -46,7 +38,7 @@
   "name": "react-native-airplay-btn",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IMGGaming/react-native-airplay-btn.git"
+    "url": "https://github.com/EugeneButovka/react-native-airplay-btn.git"
   },
   "version": "1.0.6"
 }
